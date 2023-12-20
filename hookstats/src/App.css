@@ -1,0 +1,7 @@
+.mov{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10%;
+    gap: 20px;
+}
